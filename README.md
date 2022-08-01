@@ -8,7 +8,7 @@ You are welcome to do whatever you want according to MIT licence.
 
 How to Use?
 
-run the file
+run the file,
 Enter the document file you want to convert to handwrite
 png file with handwrite will be created at the same directory
 
