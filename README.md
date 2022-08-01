@@ -8,6 +8,7 @@ You are welcome to do whatever you want according to MIT licence.
 
 How to Use?
 
+install the requirements file with this simple command in the terminal: `pip install -r requirements.txt`
 run the file,
 Enter the document file you want to convert to handwrite
 png file with handwrite will be created at the same directory
